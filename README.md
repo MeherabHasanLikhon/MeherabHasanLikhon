@@ -4,6 +4,6 @@ What I am doing: I'm currently learning C++ and having trouble yet I am loving i
 
 Skillset: Wordpress Website Developer and AD manager
 
-Recent projects completed:Built a website names " Techiegeekiess"
+Recent projects completed:Built a website named " Techiegeekiess"
 
-Hobby: Love to play football and watch tv series.
+Hobby: Love to play football and watch TV series.
