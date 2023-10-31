@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Meherab Hasan!
+# 🤝 Hello, I'm Meherab Hasan!
 
 <div align="center">
   <img src="https://media.giphy.com/media/KE0otq5Wpr7TM2yRCd/giphy.gif" alt="Welcome image from me" width="100%" style="border-radius: 50%;"/>
