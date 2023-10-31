@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="RYVE Creative.jpg" alt="Profile Image" width="200"/>
+  <img src="RYVE Creative.jpg" alt="Profile Image" width="300"/>
 </div>
 
 ## About Me
