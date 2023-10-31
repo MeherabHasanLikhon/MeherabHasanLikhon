@@ -6,4 +6,4 @@ Skillset: Wordpress Website Developer and AD manager
 
 Recent projects completed:Built a website named " Techiegeekiess"
 
-Hobby: Love to play football and watch TV series.
+Hobbies: Love to play football and watch TV series.
