@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Meherab Hasan!
 
 <div align="center">
+![Blade Runner 2049](https://media.giphy.com/media/ehOsEb0kiQAsbVihHE/giphy.gif)
+
   <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Profile Image" width="300" style="border-radius: 50%;"/>
 </div>
 
