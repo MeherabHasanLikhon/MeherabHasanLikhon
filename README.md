@@ -1,19 +1,20 @@
 <div align="center">
-  <img src="download (5).jpg" alt="Profile Image" width="250"/>
+  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Image" width="200" style="border-radius: 50%;"/>
 </div>
 
-## About Me
-I am Meherab Hasan, currently pursuing my degree in my chosen field of study at the University Of South Wales.
+# 👋 Hello, I'm Meherab Hasan!
 
-## What I'm Doing
-I'm currently immersed in the world of C++ learning, and although I'm facing a few hurdles, I believe I am up for the challenge.
+## About Me
+I'm a passionate learner currently pursuing my degree at the University Of South Wales. I'm deeply immersed in the world of **C++ programming**, and I love tackling challenges and learning new things.
 
 ## Skillset
-- Passionate WordPress Website Developer
-- Creative Ad Manager
+- 💻 Passionate WordPress Website Developer
+- 🎨 Creative Ad Manager
 
-## Recent Projects Completed
-- Built a website named "Techiegeekiess.com"
+## Recent Projects
+- 🌐 Built a website named "Techiegeekiess.com"
 
 ## Hobbies
-I really enjoy playing and watching football, and I also love taking unplanned solo trips.
+I enjoy both playing and watching **football**⚽. I'm also an avid fan of unplanned solo trips🌄.
+
+Feel free to connect with me! Let's learn and create together! ✨
