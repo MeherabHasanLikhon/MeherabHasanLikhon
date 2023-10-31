@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Image" width="200"/>
+  <img src="https://pin.it/7irTxzl" alt="Profile Image" width="200"/>
 </div>
 
 ## About Me
