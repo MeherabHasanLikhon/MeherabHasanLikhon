@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="download (5).jpg" alt="Profile Image" width="500"/>
+  <img src="download (5).jpg" alt="Profile Image" width="250"/>
 </div>
 
 ## About Me
