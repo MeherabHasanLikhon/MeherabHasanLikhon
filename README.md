@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Meherab Hasan!
 
 <div align="center">
-  <img src="desktop-wallpaper-minimalist-minimalist-code.jpg" alt="Profile Image" width="300" style="border-radius: 50%;"/>
+  <img src="https://media.giphy.com/media/V4NSR1NG2p0KeJJyr5/giphy.gif" alt="Profile Image" width="300" style="border-radius: 50%;"/>
 </div>
 
 ## About Me
