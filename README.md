@@ -1,8 +1,8 @@
+# 👋 Hello, I'm Meherab Hasan!
+
 <div align="center">
   <img src="desktop-wallpaper-minimalist-minimalist-code.jpg" alt="Profile Image" width="300" style="border-radius: 50%;"/>
 </div>
-
-# 👋 Hello, I'm Meherab Hasan!
 
 ## About Me
 I'm a passionate learner currently pursuing my degree at the University Of South Wales. I'm deeply immersed in the world of **C++ programming**, and I love tackling challenges and learning new things.
