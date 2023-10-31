@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -56,8 +56,8 @@
 
         <h2>Hobbies</h2>
         <p>⚽ I really enjoy playing and watching football, and I also love taking unplanned solo trips. ✈️</p>
-        <img src="https://pin.it/7CcKpPb" alt="Playing football">
-        <img src="https://pin.it/4mOSxOX" alt="Taking solo trips">
+        <img src="https://pin.it/7CcKpPb.jpg" alt="Playing football">
+        <img src="https://pin.it/4mOSxOX.jpg" alt="Taking solo trips">
     </div>
 </body>
 </html>
