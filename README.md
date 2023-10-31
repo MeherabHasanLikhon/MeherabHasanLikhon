@@ -1,9 +1,9 @@
-About me: I'm Meherab Hasan, pursuing my dream subject at USW
+About me: I am Meherab Hasan, currently pursuing my degree in my chosen field of study at the University Of South Wales
 
-What I am doing: I'm currently learning C++ and having trouble yet I am loving it
+What I am doing: I'm currently immersed in the world of C++ learning, and although I'm facing a few hurdles, I believe I am up for the challenge.
 
-Skillset: Wordpress Website Developer and AD manager
+Skillset: Passionate WordPress Website Developer and a Creative Ad Manager
 
-Recent projects completed:Built a website named " Techiegeekiess"
+Recent projects completed: Built a website named " Techiegeekiess.com"
 
-Hobbies: Love to play football and watch TV series.
+Hobbies: I really enjoy playing and watching football, and I also love taking unplanned solo trips
