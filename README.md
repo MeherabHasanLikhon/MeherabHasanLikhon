@@ -17,7 +17,7 @@ I'm a passionate learner currently pursuing my degree at the University Of South
 ## Hobbies
 I enjoy both playing and watching **football**⚽.
 <div align="center">
-  <img src="https://media.giphy.com/media/WzR8zb0PN6bUmfz4DW/giphy.gif" alt="Messi is the GOAT" width="200" style="border-radius: 50%;"/>
+  <img src="https://media.giphy.com/media/WzR8zb0PN6bUmfz4DW/giphy.gif" alt="Messi is the GOAT" width="300" style="border-radius: 50%;"/>
 </div>
 
  I'm also an avid fan of unplanned solo trips🌄.
