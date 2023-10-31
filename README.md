@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="884de81d29f37619ff17935475764213.jpg" alt="Profile Image" width="200" style="border-radius: 50%;"/>
+  <img src="884de81d29f37619ff17935475764213.jpg" alt="Profile Image" width="300" style="border-radius: 50%;"/>
 </div>
 
 # 👋 Hello, I'm Meherab Hasan!
