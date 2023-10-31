@@ -8,9 +8,9 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f0f0;
+            text-align: center;
             margin: 0;
             padding: 0;
-            text-align: center;
         }
 
         header {
@@ -31,8 +31,9 @@
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
         }
 
-        img {
-            max-width: 100%;
+        p {
+            font-size: 18px;
+            line-height: 1.6;
         }
     </style>
 </head>
@@ -41,23 +42,30 @@
         <h1>About Me</h1>
     </header>
     <div class="container">
-        <h2>Hello, I'm Meherab Hasan</h2>
-        <p>👋 Currently pursuing my degree at the University Of South Wales.</p>
+        <h2>About me</h2>
+        <p>
+            I am Meherab Hasan, currently pursuing my degree in my chosen field of study at the University Of South Wales.
+        </p>
 
-        <h2>What I Am Doing</h2>
-        <p>📚 I'm currently immersed in the world of C++ learning, and although I'm facing a few hurdles, I believe I am up for the challenge.</p>
+        <h2>What I am doing</h2>
+        <p>
+            I'm currently immersed in the world of C++ learning, and although I'm facing a few hurdles, I believe I am up for the challenge.
+        </p>
 
         <h2>Skillset</h2>
-        <p>💻 Passionate WordPress Website Developer and a Creative Ad Manager.</p>
+        <p>
+            Passionate WordPress Website Developer and a Creative Ad Manager.
+        </p>
 
-        <h2>Recent Projects Completed</h2>
-        <p>🚀 Built a website named "Techiegeekiess.com."</p>
-        <img src="https://techiegeekiess.com/wp-content/uploads/2022/11/ssssasd-removebg-preview-1.png" alt="Techiegeekiess.com">
+        <h2>Recent projects completed</h2>
+        <p>
+            Built a website named "Techiegeekiess.com."
+        </p>
 
         <h2>Hobbies</h2>
-        <p>⚽ I really enjoy playing and watching football, and I also love taking unplanned solo trips. ✈️</p>
-        <img src="https://pin.it/7CcKpPb.jpg" alt="Playing football">
-        <img src="https://pin.it/4mOSxOX.jpg" alt="Taking solo trips">
+        <p>
+            I really enjoy playing and watching football, and I also love taking unplanned solo trips.
+        </p>
     </div>
 </body>
 </html>
