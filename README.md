@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://pin.it/7irTxzl.jpeg" alt="Profile Image" width="200"/>
+  <img src="https://pin.it/7irTxzl.jpg" alt="Profile Image" width="200"/>
 </div>
 
 ## About Me
