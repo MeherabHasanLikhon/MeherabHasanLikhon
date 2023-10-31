@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="YOUR_PROFILE_IMAGE_URL" alt="Profile Image" width="200" style="border-radius: 50%;"/>
+  <img src="884de81d29f37619ff17935475764213.jpg" alt="Profile Image" width="200" style="border-radius: 50%;"/>
 </div>
 
 # 👋 Hello, I'm Meherab Hasan!
@@ -9,7 +9,7 @@ I'm a passionate learner currently pursuing my degree at the University Of South
 
 ## Skillset
 - 💻 Passionate WordPress Website Developer
-- 🎨 Creative Ad Manager
+- 💡 Creative Ad Manager
 
 ## Recent Projects
 - 🌐 Built a website named "Techiegeekiess.com"
