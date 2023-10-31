@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Meherab Hasan!
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnhweG8yMXl2dWQ5NHF6NWN4OGhzNWs2NTU1bXRyaXBwengxYnRzMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ehOsEb0kiQAsbVihHE/giphy.gif" alt="Profile Image" width="100%" style="border-radius: 50%;"/>
+  <img src="https://media.giphy.com/media/KE0otq5Wpr7TM2yRCd/giphy.gif" alt="Profile Image" width="100%" style="border-radius: 50%;"/>
 </div>
 
 ## About Me
